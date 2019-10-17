@@ -1,2 +1,3 @@
 # fetchall
- Fetchall fetches URLs in parallel and preorts their times and sizes.
+
+ Fetchall fetches URLs in parallel and reports their times and sizes.
